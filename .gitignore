@@ -24,3 +24,4 @@ Library/*
 Temp
 *.pidb
 Build
+obj
