@@ -25,3 +25,5 @@ Temp
 *.pidb
 Build
 obj
+*.suo
+*.user
